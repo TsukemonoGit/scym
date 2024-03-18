@@ -1,2 +1,3 @@
-https://unityroom.com/games/tohuのsource
-※パズロムという雑誌に収録されていたスクールユミちゃんの再現ゲーム
+※パズロムという雑誌に収録されていたスクールユミちゃんをUnityで再現したもの
+
+https://unityroom.com/games/tohu のsource
